@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
   <?php
-  echo "Hello World!";
+  echo "Hello World!  This was mirrored from Github!";
   ?>
 </html>
