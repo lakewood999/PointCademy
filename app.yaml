@@ -6,4 +6,4 @@ handlers:
   static_dir: stylesheets
 
 - url: /.*
-  script: helloworld.php
+  script: index.php
