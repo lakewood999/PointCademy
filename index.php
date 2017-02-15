@@ -1,6 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-  <?php
-  echo "Hello World!  This was mirrored from Github!";
-  ?>
+  <body>
+    <p>
+    <?php
+      print("Hello awesome world!");
+    ?>
+    </p>
+  </body>
 </html>
